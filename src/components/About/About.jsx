@@ -41,9 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-Hey, I'm Mojahid Hassan. I love building things online — websites, tools, random ideas — whatever feels exciting. I try to keep everything simple, clean, and actually useful for people.
-I work with stuff like automation, UI/UX, AI features, web apps, and payment systems. Basically, if it sounds fun and I can learn something from it, I’ll build it. I’m always experimenting, improving, and trying new things.
-Still learning. Still creating. Still leveling up.
+Hi, I’m Mojahid. I build websites, tools, and digital experiences that are simple, clean, and actually helpful. I’m always learning, improving, and working on new ideas.
           </p>
           {/* Resume Button */}
           <a
