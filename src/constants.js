@@ -215,7 +215,7 @@ export const SkillsInfo = [
         "MojahidX is a simple and free platform offering smart online tools like AI image generation, bio links, and custom upi payment pages — all built with a clean and user-friendly experience.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      github: "https://github.com/mojahid65",
       webapp: "https://www.mojahidx.online/",
     },
     {
