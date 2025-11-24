@@ -45,7 +45,7 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/mojahidx.png';
-import csprepLogo from './assets/work_logo/cs_prep.png';
+import csprepLogo from './assets/work_logo/chudAI.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
@@ -220,13 +220,13 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "CS Prep",
+      title: "ChudAI",
       description:
-        "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
+        "A tool that analyzes images and generates detailed AI prompts for Midjourney, DALL-E, Stable Diffusion, and other models.",
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
-      webapp: "https://csprep.netlify.app/",
+      github: "https://github.com/Mojahid65/chudai",
+      webapp: "https://www.chud-ai.fun/",
     },
     {
       id: 2,
