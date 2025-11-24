@@ -18,7 +18,7 @@ const About = () => {
           </h1>
           {/* Name */}
           <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight">
-            Tarun Kaushik
+            Mojahid Hassan
           </h2>
           {/* Skills Heading with Typing Effect */}
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
@@ -27,7 +27,7 @@ const About = () => {
               text={[
                 'Fullstack Developer',
                 'App Developer',
-                'UI/UX Designer',
+                ' Graphics Designer',
                 'Coder',
               ]}
               speed={100}
@@ -41,11 +41,9 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer with over 2 years of experience in
-            building scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
-            modern technologies to create seamless user experiences and
-            efficient solutions.
+Hey, I'm Mojahid Hassan. I love building things online — websites, tools, random ideas — whatever feels exciting. I try to keep everything simple, clean, and actually useful for people.
+I work with stuff like automation, UI/UX, AI features, web apps, and payment systems. Basically, if it sounds fun and I can learn something from it, I’ll build it. I’m always experimenting, improving, and trying new things.
+Still learning. Still creating. Still leveling up.
           </p>
           {/* Resume Button */}
           <a
