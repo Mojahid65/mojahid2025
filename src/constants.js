@@ -44,7 +44,7 @@ import bsaLogo from './assets/education_logo/bsa_logo.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
+import githubdetLogo from './assets/work_logo/mojahidx.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
@@ -210,13 +210,13 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "GitHub Profile Detective",
+      title: "Mojahidx AI",
       description:
-        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
+        "MojahidX is a simple and free platform offering smart online tools like AI image generation, bio links, and custom upi payment pages — all built with a clean and user-friendly experience.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
       github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      webapp: "https://www.mojahidx.online/",
     },
     {
       id: 1,
