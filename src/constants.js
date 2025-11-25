@@ -199,11 +199,11 @@ export const SkillsInfo = [
     {
       id: 3,
       img: vpsLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
-      date: "Apr 2015 - March 2016",
+      school: "Polerhat High School [H.S] West Bengal, Kolkata",
+      date: " January 2024 - February 2025",
       grade: "87.5%",
-      desc: "I completed my class 10 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Science with Computer.",
-      degree: "CBSE(X), Science with Computer Application",
+      desc: "I completed my class 10 education from Polerhat High School, West Bengal, under the WBBSC board, where I studied Science with Computer.",
+      degree: "WBBSC(X), Science with Computer Application",
     },
   ];
   
